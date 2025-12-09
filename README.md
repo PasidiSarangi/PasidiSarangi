@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F74343&center=true&vCenter=true&width=800&lines=Hi+I'm+Pasidi+Sarangi!;IT%20Undergraduate%20%7C%20Developer%20%7C%20Data%20Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F74343&center=true&vCenter=true&width=800&lines=Hi+I'm+Pasidi+Sarangi!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </p>
 
 ---
