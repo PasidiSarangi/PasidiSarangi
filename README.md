@@ -1,69 +1,24 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F74343&center=true&vCenter=true&width=800&lines=Hi+I'm+Pasidi+Sarangi!;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+<h1 align="center">Hi 👋, I'm Pasidi Sarangi</h1>
+<h3 align="center">I'm an undergraduate at SLIIT</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PasidiSarangi&label=Profile%20views&color=0e75b6&style=flat" alt="PasidiSarangi" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PasidiSarangi" alt="pasidisarangi" /></a> </p>
+
+- 📫 How to reach me **pasidisarangi@gmail.com**
+
+- ⚡ Fun fact **I love creating clean and simple UI designs and I enjoy learning new tools and exploring tech**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PasidiSarangi&show_icons=true&locale=en&layout=compact" alt="pasidisarangi" /></p>
 
-- 🎓 IT undergraduate with a strong passion for tech and learning  
-- 💻 Skilled in **Java, Python, JavaScript, HTML, CSS**  
-- 📊 Love working with **Power BI & Data Analytics**  
-- 📔 Heavy user of **Jupyter Notebook** for coding and analysis  
-- 🎯 Learning **Business Management for IT**  
-- 🌱 Improving everyday by building projects  
-- 📁 Check out my latest work in my **Repositories!**
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pasidisarangi&show_icons=true&locale=en" alt="pasidisarangi" /></p>
 
----
-
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,powerbi,git,github,vscode" />
-</p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PasidiSarangi&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasidiSarangi&layout=compact&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PasidiSarangi&theme=tokyonight" />
-</p>
-
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/pasidi-sarangi-93b24631b" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-</p>
-
----
-
-<h2 align="center">📩 Contact</h2>
-
-<p align="center">
-📧 **Email:** pasidisarangi@gmail.com  
-</p>
-
----
-
-<h2 align="center">⚡ Fun Facts</h2>
-
-- I enjoy learning new tools and exploring tech  
-- I love creating clean and simple UI designs  
-- I enjoy solving problems and improving step by step  
-- I’m always open to learning and collaborating  
-
----
-
-<h3 align="center">⭐ If you like my work, don't forget to give my repositories a star!</h3>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pasidisarangi&" alt="pasidisarangi" /></p>
 
