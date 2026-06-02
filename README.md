@@ -281,6 +281,13 @@ Future:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## 🐍 Contribution 
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+
 # 📫 Reach Me
 
 📧 Email: pasidisarangi@gmail.com
@@ -299,13 +306,23 @@ Future:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🐍 Contribution 
 
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+<div align="center">
 
+<img src="https://media.tenor.com/lvLaG5hPCncAAAAi/mochi-cat.gif" width="150">
+
+### 🌸 Thanks for stopping by!
+
+Code • Learn • Build • Repeat 💻✨
+<p align="center">
+<img src="https://media.tenor.com/search/thank-you-cat-gifs" width="200">
+</p>
+</div>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=120&section=footer"/>
 </p>
+
+
+
