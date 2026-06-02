@@ -1,123 +1,286 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Pasidi+Sarangi;IT+Undergraduate+at+SLIIT;Full+Stack+Developer;MERN+Stack+Enthusiast;AI+%26+Research+Explorer" />
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:8B5CF6&height=220&section=header&text=Pasidi%20Sarangi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=35&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Pasidi+Sarangi;IT+Undergraduate+at+SLIIT;MERN+Stack+Enthusiast;" />
+
+<br>
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="400"/> <br>
+
+<img src="https://komarev.com/ghpvc/?username=PasidiSarangi&label=Profile+Views&color=0ea5e9&style=for-the-badge"/>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-# 💫 About Me
+# 👩‍💻 About Me
 
-🎓 Information Technology Undergraduate at SLIIT
+🎓 Information Technology Undergraduate at **SLIIT**
 
-💻 Passionate about Full-Stack Development, Software Engineering, and Artificial Intelligence
+💻 Passionate about **Web Development**
 
-🚀 Building web applications using the MERN Stack
+🚀 Building modern web applications 
 
-🔬 Currently exploring AI-powered intelligent systems and research projects
+🤖 Interested in **UI/UX Designing**, **Artificial Intelligence**, and **Software Engineering**
 
-🌱 Always learning new technologies and improving my development skills
+🔬 Currently working on an **AI-Powered Research Project**
 
-⚡ Fun fact: I enjoy turning ideas into real-world applications through code.
+🌱 Constantly learning and exploring new technologies
 
----
+⚡ I enjoy transforming ideas into practical software solutions
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## ☕ Fun Facts
+
+🌙 Most productive during late-night coding sessions
+
+🎨 Enjoy designing clean and user-friendly interfaces
+
+🚀 Love turning ideas into working applications
+
+📖 Always exploring new technologies
+
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="http://www.linkedin.com/in/pasidi-sarangi-93b24631b">
+<p align="center">
+<a href="https://www.linkedin.com/in/pasidi-sarangi-93b24631b">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 <a href="mailto:pasidisarangi@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+
+<a href="https://github.com/PasidiSarangi">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.instagram.com/__pasidi__/">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" height="48" />
+</a>
+
+<a href="https://www.facebook.com/share/1BD8CJwWRm/?mibextid=wwXIfr">
+<img src="https://cdn.simpleicons.org/facebook/1877F2" height="48" />
+</a>
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 # 💻 Tech Stack
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,javascript,c,cpp,php,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,javascript,c,cpp,php,python,mysql" />
 </p>
 
-### Frontend
+### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
 </p>
 
-### Backend
+### Backend Development
 
-<p>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### Database
+### Database Technologies
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### Tools
+### Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 # 🚀 Featured Projects
 
-### 📚 Study Smart
-Smart Campus Hub platform developed using the MERN Stack with resource booking, study materials, and student management features.
+## 📚 Smart Campus Hub - Booking Management
 
-### 📅 QuickBook
-A modern booking management system with user and admin functionalities.
+A Smart Campus platform developed as a university group project to streamline student services and resource management within the university environment.
 
+### Key Features
+
+✨ Resource Booking & Reservation Management
+
+✨ My Bookings Dashboard
+
+✨ Booking Status Tracking
+
+✨ Booking Cancellation
+
+✨ Admin Booking Management
+
+✨ Responsive User Experience
+
+### My Contribution
+
+🔹 Designed and developed the Booking Management Module
+
+🔹 Implemented booking creation, tracking, and cancellation functionalities
+
+🔹 Developed the My Bookings dashboard
+
+🔹 Built booking management features for administrators
+
+🔹 Integrated frontend and backend components
+
+🔹 Collaborated with team members to ensure seamless system integration
+
+### Technologies
+
+`Java` `Spring Boot` `PostgreSQL` `React.js` `REST APIs`
+
+---
+
+## 👥 Study Smart – Study Group Management
+
+A collaborative learning platform within Study Smart that helps students create, discover, and participate in academic study groups.
+
+### Key Features
+
+✨ Create and Manage Study Groups
+
+✨ Join Existing Study Groups
+
+✨ Browse Available Study Groups
+
+✨ View Group Information and Members
+
+✨ Support Student Collaboration
+
+✨ Responsive and User-Friendly Interface
+
+### My Contribution
+
+🔹 Designed and developed the Study Group Management Module
+
+🔹 Implemented study group creation and management functionalities
+
+🔹 Developed group discovery and participation features
+
+🔹 Built responsive user interfaces for study group activities
+
+🔹 Connected frontend components with backend APIs
+
+🔹 Enhanced collaboration opportunities for students
+
+### Technologies
+
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
 
 ---
 
-# 📊 GitHub Statistics
+## 📅 QuickBook – Booking Management System
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PasidiSarangi&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasidiSarangi&layout=compact&theme=tokyonight" height="180"/>
-</p>
+A full-stack booking management platform independently designed and developed to simplify reservation management for users and administrators.
 
----
+### Key Features
 
-# 🔥 GitHub Streak
+✨ User Registration and Authentication
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=PasidiSarangi&theme=tokyonight" />
-</p>
+✨ Create and Manage Bookings
 
----
+✨ Booking Status Tracking
 
-# 📈 Contribution Graph
+✨ Booking Updates and Cancellation
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PasidiSarangi&theme=tokyo-night" />
-</p>
+✨ Admin Dashboard
 
----
+✨ User Profile Management
 
-# 🏆 GitHub Trophies
+✨ Contact and Inquiry Management
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PasidiSarangi&theme=tokyonight&column=4" />
-</p>
+✨ Responsive Design
 
----
+### My Contribution
+
+🔹 Sole designer and developer of the entire system
+
+🔹 Designed the database architecture
+
+🔹 Developed frontend and backend functionalities
+
+🔹 Implemented authentication and authorization
+
+🔹 Created REST APIs and integrated MongoDB
+
+🔹 Designed responsive user interfaces
+
+🔹 Managed project planning, development, testing, and deployment
+
+### Technologies
+
+`React.js` `Node.js` `Express.js` `MongoDB` `Express.js` `REST APIs`
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+
+# 🎯 Current Goals
+
+```yaml
+Learning:
+  - Advanced MERN Stack Development
+  - Artificial Intelligence
+  - Machine Learning
+
+Building:
+  - Full Stack Applications
+  - Research Projects
+  - Open Source Contributions
+
+Future:
+  - Software Engineer
+
+```
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+# 🏅 Achievements & Interests
+
+🌟 Full Stack Development
+
+🌟 MERN Stack Development
+
+🌟 Software Engineering
+
+🌟 Artificial Intelligence
+
+🌟 Research & Innovation
+
+🌟 UI/UX Design
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+# 📫 Reach Me
+
+📧 Email: pasidisarangi@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/pasidi-sarangi-93b24631b
+
+🚀 Open to internships, collaborations, and exciting projects
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 <div align="center">
 
-### 🚀 "Code • Learn • Build • Innovate"
-
-<img src="https://komarev.com/ghpvc/?username=PasidiSarangi&label=Profile%20Views&color=0e75b6&style=flat" />
+### ✨ Turning Ideas Into Reality Through Code ✨
 
 </div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=120&section=footer"/>
+</p>
