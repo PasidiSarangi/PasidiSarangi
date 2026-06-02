@@ -15,4 +15,4 @@ React • Node.js • Express.js • MongoDB • JavaScript • Java • C++ •
 
 ### Let's Connect
 📧 pasidisarangi@gmail.com  
-💼 LinkedIn: (http://www.linkedin.com/in/pasidi-sarangi-93b24631b)
+💼 LinkedIn:http://www.linkedin.com/in/pasidi-sarangi-93b24631b
