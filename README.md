@@ -25,7 +25,7 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL">
+<a href="http://www.linkedin.com/in/pasidi-sarangi-93b24631b">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
@@ -84,8 +84,8 @@ A modern booking management system with user and admin functionalities.
 # 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=PasidiSarangi&show_icons=true&theme=tokyonight" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasidiSarangi&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@ A modern booking management system with user and admin functionalities.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://streak-stats.demolab.com?user=PasidiSarangi&theme=tokyonight" />
 </p>
 
 ---
@@ -101,7 +101,7 @@ A modern booking management system with user and admin functionalities.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PasidiSarangi&theme=tokyo-night" />
 </p>
 
 ---
@@ -109,7 +109,7 @@ A modern booking management system with user and admin functionalities.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&column=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=PasidiSarangi&theme=tokyonight&column=4" />
 </p>
 
 ---
@@ -118,6 +118,6 @@ A modern booking management system with user and admin functionalities.
 
 ### 🚀 "Code • Learn • Build • Innovate"
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=PasidiSarangi&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
