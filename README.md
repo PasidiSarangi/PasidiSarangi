@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Sarah;IT+Undergraduate+at+SLIIT;Full+Stack+Developer;MERN+Stack+Enthusiast;AI+%26+Research+Explorer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Pasidi+Sarangi;IT+Undergraduate+at+SLIIT;Full+Stack+Developer;MERN+Stack+Enthusiast;AI+%26+Research+Explorer" />
 
 </div>
 
