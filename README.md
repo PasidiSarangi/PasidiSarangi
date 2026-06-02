@@ -34,6 +34,16 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## 🚀 Learning Journey
+
+<p align="center">
+<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="300">
+</p>
+
+
+💡 Continuously learning new technologies and building projects.
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 ## ☕ Fun Facts
 
 🌙 Most productive during late-night coding sessions
@@ -228,8 +238,14 @@ A full-stack booking management platform independently designed and developed to
 `React.js` `Node.js` `Express.js` `MongoDB` `Express.js` `REST APIs`
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
+## ☕ Current Mood
+
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXdhNnZ3MnI0ZW9xOTA2NHkyZXV0Y2JnaGs2ZnN4NGUzZDA3OXYwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tj1tqx8f8unnKx1DIh/giphy.webp" width="300">
+</p>
 
 # 🎯 Current Goals
+
 
 ```yaml
 Learning:
@@ -280,6 +296,15 @@ Future:
 ### ✨ Turning Ideas Into Reality Through Code ✨
 
 </div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
+## 🐍 Contribution 
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:8B5CF6&height=120&section=footer"/>
