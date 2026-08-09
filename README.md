@@ -36,16 +36,24 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PasidiSarangi&show_icons=true&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasidiSarangiE&layout=compact&theme=tokyonight&hide_border=true" 
-    height="180"
-  />
-</p>
+<div align="center">
+  <a href="https://github.com/PasidiSarangi">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PasidiSarangi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>  
+  
+  <a href="https://github.com/PasidiSarangi">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=PasidiSarangi&layout=compact&langs_count=8&theme=dracula&hide_border=true"/>
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/PasidiSarangi">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasidiSarangi&theme=dracula&hide_border=true"/>
+  </a>
+</div>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" style="border-radius:15px; margin:20px 0;" />
+
+
 
 ## 🔥 Contribution Streak
 
@@ -264,7 +272,7 @@ A full-stack booking management platform independently designed and developed to
 
 ### Technologies
 
-`React.js` `Node.js` `Express.js` `MongoDB` `Express.js` `REST APIs`
+`React.js` `Node.js` `Express.js` `MongoDB` `REST APIs`
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## ☕ Current Mood
