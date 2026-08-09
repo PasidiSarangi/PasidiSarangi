@@ -37,20 +37,30 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PasidiSarangi&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PasidiSarangiE&layout=compact&theme=tokyonight&hide_border=true" 
+    height="180"
+  />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://streak-stats.demolab.com?user=PasidiSarangi&theme=tokyonight&hide_border=true" 
+  />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=PasidiSarangi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" 
+  />
 </p>
 
 ## 🚀 Learning Journey
