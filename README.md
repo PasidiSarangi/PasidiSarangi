@@ -54,6 +54,12 @@
   />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=nehansasandani" alt="GitHub Trophies">
+</p>
+
 ## 🚀 Learning Journey
 
 <p align="center">
