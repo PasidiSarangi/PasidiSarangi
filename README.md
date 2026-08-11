@@ -57,15 +57,7 @@
   <img src="https://trophy.ryglcloud.net/?username=PasidiSarangi" alt="GitHub Trophies">
 </p>
 
-## 🚀 Learning Journey
 
-<p align="center">
-<img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="300">
-</p>
-
-
-💡 Continuously learning new technologies and building projects.
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## ☕ Fun Facts
 
