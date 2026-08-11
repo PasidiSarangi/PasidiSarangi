@@ -289,12 +289,6 @@ Future:
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-## 🐍 Contribution 
-
-![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 
 # 📫 Reach Me
 
