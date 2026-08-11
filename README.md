@@ -252,6 +252,8 @@ A full-stack booking management platform independently designed and developed to
 <img src="https://media3.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXdhNnZ3MnI0ZW9xOTA2NHkyZXV0Y2JnaGs2ZnN4NGUzZDA3OXYwayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Tj1tqx8f8unnKx1DIh/giphy.webp" width="300">
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+
 # 🎯 Current Goals
 
 
@@ -270,7 +272,7 @@ Future:
   - Software Engineer
 
 ```
-
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 # 🏅 Achievements & Interests
 
