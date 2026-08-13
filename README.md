@@ -320,7 +320,8 @@ Future:
 
 Code • Learn • Build • Repeat 💻✨
 <p align="center">
-<img src="https://media.tenor.com/search/thank-you-cat-gifs" width="200">
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExamloOXozcWVrNmwwMTcwZTN6cDJkYnB5bWxqYXg4cnJwMTZvaWxmbyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/5h9u3OODpw8gdXrdZr/giphy.webp" width="200">
+</p>
 </p>
 </div>
 
