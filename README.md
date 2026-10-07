@@ -18,7 +18,7 @@
 
 # 👩‍💻 About Me
 
-🎓 Information Technology Undergraduate at **SLIIT**
+🎓 4th Year Information Technology Undergraduate at **SLIIT**
 
 💻 Passionate about **Web Development**
 
